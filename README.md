@@ -3,7 +3,15 @@
 
 **If you ever need to use the Obsidian MCP server for generating full notes** – for research, learning, knowledge bases, or exploring topics – this tool provides automated vault generation with rich interconnections optimized for Obsidian's graph view.
 
+<img width="1823" height="980" alt="Screenshot from 2025-11-15 00-05-17" src="https://github.com/user-attachments/assets/ee71c40b-49dd-4c76-ad00-c69a4ec73807" />
+**File structure that was generated**
+<img width="1823" height="980" alt="Screenshot from 2025-11-15 00-05-29" src="https://github.com/user-attachments/assets/08a5c369-a9dc-4453-a5cf-ee0a8f4f7173" />
+**Picture of one of the enteries**
+<img width="1470" height="962" alt="Screenshot from 2025-11-15 00-05-39" src="https://github.com/user-attachments/assets/915f15e6-e136-4a56-996b-18d614be228d" />
+**Picture of the obsidian map**
+
 ## Features
+
 
 - **Automated Vault Creation**: Generate entire vaults from a single topic prompt
 - **Rich Interconnections**: Creates bidirectional links between related notes for graph visualization
