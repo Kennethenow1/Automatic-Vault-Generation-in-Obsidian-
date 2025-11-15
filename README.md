@@ -1,7 +1,7 @@
 # Obsidian Vault Generator with MCP
 
 
-**If you ever need to use the Obsidian MCP server for generating full notes** – for research, learning, knowledge bases, or exploring topics – this tool provides automated vault generation with rich interconnections optimized for Obsidian's graph view.
+**If you ever need to use the Obsidian MCP server for generating full notes** – for research, learning, knowledge bases, or exploring topics – this tool provides automated vault generation template with rich interconnections. You can furthur implement api calling to generate the full notes but this is just for a template. 
 
 <img width="1823" height="980" alt="Screenshot from 2025-11-15 00-05-17" src="https://github.com/user-attachments/assets/ee71c40b-49dd-4c76-ad00-c69a4ec73807" />
 File structure that was generated
@@ -26,7 +26,7 @@ Picture of the obsidian map
 pip install -r requirements.txt
 ```
 
-2. **Set your API key** (optional, for AI-generated content):
+2. **Set your API key** (optional, for AI-generated content for full vault generation):
 ```bash
 export OPENAI_API_KEY="your-api-key-here"
 ```
